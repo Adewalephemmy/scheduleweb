@@ -1,4 +1,4 @@
-HOW TO RUN Web App
+**HOW TO RUN Web App**
 step1:  Create Database (databae name: scheduler) using MySql 
         Update the Application properties with the following: 
                 1. Database name;
